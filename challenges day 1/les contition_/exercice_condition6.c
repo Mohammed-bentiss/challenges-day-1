@@ -1,3 +1,6 @@
+
+#include <stdio.h>
+
 int main() {
    char t;
    printf("entre votre lettre: ");
